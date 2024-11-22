@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.8">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1338" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2286" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,6 +186,20 @@
             <mxPoint x="14" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mD3hHIEsa4qXd8ChemdI-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="sbPEuqRtvOU7aVTsuF3H-71" source="mD3hHIEsa4qXd8ChemdI-32" target="mD3hHIEsa4qXd8ChemdI-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="160" />
+              <mxPoint x="370" y="240" />
+              <mxPoint x="435" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mD3hHIEsa4qXd8ChemdI-86" value="Lost or Stolen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mD3hHIEsa4qXd8ChemdI-85">
+          <mxGeometry x="-0.6152" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mD3hHIEsa4qXd8ChemdI-32" value="Select adjustment type" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="sbPEuqRtvOU7aVTsuF3H-71">
           <mxGeometry x="185" y="119.5" width="80" height="80" as="geometry" />
         </mxCell>
@@ -256,6 +270,12 @@
               <mxPoint x="490" y="250" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mD3hHIEsa4qXd8ChemdI-84" value="Encode Lost or Stolen Form" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="sbPEuqRtvOU7aVTsuF3H-71">
+          <mxGeometry x="380" y="315" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="mD3hHIEsa4qXd8ChemdI-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sbPEuqRtvOU7aVTsuF3H-71" source="mD3hHIEsa4qXd8ChemdI-84" target="mD3hHIEsa4qXd8ChemdI-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sbPEuqRtvOU7aVTsuF3H-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="sbPEuqRtvOU7aVTsuF3H-48" source="sbPEuqRtvOU7aVTsuF3H-74" target="mD3hHIEsa4qXd8ChemdI-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
