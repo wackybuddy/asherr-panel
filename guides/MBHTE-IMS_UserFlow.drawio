@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.8">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1722" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1338" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,12 +178,12 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mD3hHIEsa4qXd8ChemdI-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sbPEuqRtvOU7aVTsuF3H-71" source="mD3hHIEsa4qXd8ChemdI-32" target="mD3hHIEsa4qXd8ChemdI-69">
+        <mxCell id="mD3hHIEsa4qXd8ChemdI-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="sbPEuqRtvOU7aVTsuF3H-71" source="mD3hHIEsa4qXd8ChemdI-32" target="mD3hHIEsa4qXd8ChemdI-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mD3hHIEsa4qXd8ChemdI-72" value="Damage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mD3hHIEsa4qXd8ChemdI-71">
           <mxGeometry x="-0.3122" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mD3hHIEsa4qXd8ChemdI-32" value="Select adjustment type" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="sbPEuqRtvOU7aVTsuF3H-71">
@@ -220,16 +220,42 @@
           <mxGeometry x="155" y="340" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mD3hHIEsa4qXd8ChemdI-66" value="Encode status&lt;div&gt;and remarks of&lt;/div&gt;&lt;div&gt;item&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" vertex="1" parent="sbPEuqRtvOU7aVTsuF3H-71">
-          <mxGeometry x="440" y="199.5" width="110" height="65" as="geometry" />
+          <mxGeometry x="440" y="127" width="110" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="mD3hHIEsa4qXd8ChemdI-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sbPEuqRtvOU7aVTsuF3H-71" source="mD3hHIEsa4qXd8ChemdI-69" target="mD3hHIEsa4qXd8ChemdI-70">
+        <mxCell id="mD3hHIEsa4qXd8ChemdI-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sbPEuqRtvOU7aVTsuF3H-71" source="mD3hHIEsa4qXd8ChemdI-69" target="mD3hHIEsa4qXd8ChemdI-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mD3hHIEsa4qXd8ChemdI-69" value="Item still in warranty?" style="rounded=0;whiteSpace=wrap;html=1;shape=rhombus;perimeter=rhombusPerimeter;" vertex="1" parent="sbPEuqRtvOU7aVTsuF3H-71">
-          <mxGeometry x="345" y="123.5" width="90" height="72" as="geometry" />
+          <mxGeometry x="350" y="60" width="90" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="mD3hHIEsa4qXd8ChemdI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sbPEuqRtvOU7aVTsuF3H-71" source="mD3hHIEsa4qXd8ChemdI-70" target="mD3hHIEsa4qXd8ChemdI-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="65" />
+              <mxPoint x="600" y="160" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mD3hHIEsa4qXd8ChemdI-70" value="Display warranty information" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sbPEuqRtvOU7aVTsuF3H-71">
-          <mxGeometry x="460" y="50" width="70" height="60" as="geometry" />
+          <mxGeometry x="500" y="35" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mD3hHIEsa4qXd8ChemdI-78" value="Print RLSDDP&lt;div&gt;File&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=22;" vertex="1" parent="sbPEuqRtvOU7aVTsuF3H-71">
+          <mxGeometry x="560" y="210" width="55" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mD3hHIEsa4qXd8ChemdI-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.063;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sbPEuqRtvOU7aVTsuF3H-71" source="mD3hHIEsa4qXd8ChemdI-69" target="mD3hHIEsa4qXd8ChemdI-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="161" />
+              <mxPoint x="420" y="161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mD3hHIEsa4qXd8ChemdI-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="sbPEuqRtvOU7aVTsuF3H-71" source="mD3hHIEsa4qXd8ChemdI-66" target="mD3hHIEsa4qXd8ChemdI-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sbPEuqRtvOU7aVTsuF3H-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="sbPEuqRtvOU7aVTsuF3H-48" source="sbPEuqRtvOU7aVTsuF3H-74" target="mD3hHIEsa4qXd8ChemdI-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
