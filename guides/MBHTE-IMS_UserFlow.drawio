@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.9">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="3457" dy="1405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4435" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1001,8 +1001,8 @@
         <mxCell id="lgE0cyHTdlIOcblUiMzN-225" value="&lt;div&gt;Scan/Search&amp;nbsp;&lt;/div&gt;&lt;div&gt;items for&amp;nbsp;&lt;/div&gt;&lt;div&gt;disposal&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;" parent="lgE0cyHTdlIOcblUiMzN-179" vertex="1">
           <mxGeometry x="200" y="180" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="lgE0cyHTdlIOcblUiMzN-229" value="Tag items for disposal" style="rounded=0;whiteSpace=wrap;html=1;shape=label;aspect=fixed;" parent="lgE0cyHTdlIOcblUiMzN-179" vertex="1">
-          <mxGeometry x="40" y="240" width="83.7" height="70" as="geometry" />
+        <mxCell id="lgE0cyHTdlIOcblUiMzN-229" value="System checks asset type" style="rounded=0;whiteSpace=wrap;html=1;shape=rhombus;aspect=fixed;perimeter=rhombusPerimeter;" parent="lgE0cyHTdlIOcblUiMzN-179" vertex="1">
+          <mxGeometry x="10" y="237.5" width="107.61" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BGP5__pCPFABorJjP4eC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lgE0cyHTdlIOcblUiMzN-179" source="lgE0cyHTdlIOcblUiMzN-231" target="lgE0cyHTdlIOcblUiMzN-241">
           <mxGeometry relative="1" as="geometry" />
@@ -1047,11 +1047,11 @@
         <mxCell id="lgE0cyHTdlIOcblUiMzN-255" value="Cancel disapproved assets" style="ellipse;whiteSpace=wrap;html=1;" parent="lgE0cyHTdlIOcblUiMzN-179" vertex="1">
           <mxGeometry x="430" y="430" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BGP5__pCPFABorJjP4eC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="lgE0cyHTdlIOcblUiMzN-179" source="lgE0cyHTdlIOcblUiMzN-229" target="lgE0cyHTdlIOcblUiMzN-231">
+        <mxCell id="BGP5__pCPFABorJjP4eC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lgE0cyHTdlIOcblUiMzN-179" source="lgE0cyHTdlIOcblUiMzN-229" target="lgE0cyHTdlIOcblUiMzN-231">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="310" />
-              <mxPoint x="110" y="360" />
+              <mxPoint x="150" y="283" />
+              <mxPoint x="150" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1078,15 +1078,30 @@
         <mxCell id="lgE0cyHTdlIOcblUiMzN-233" value="&lt;div&gt;Generate&lt;/div&gt;&amp;nbsp;IIRUP&lt;div&gt;File&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=22;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="lgE0cyHTdlIOcblUiMzN-179" vertex="1">
           <mxGeometry x="135" y="415" width="55" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BGP5__pCPFABorJjP4eC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=16.5;entryDy=0;entryPerimeter=0;" edge="1" parent="lgE0cyHTdlIOcblUiMzN-179" source="lgE0cyHTdlIOcblUiMzN-229" target="lgE0cyHTdlIOcblUiMzN-232">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BGP5__pCPFABorJjP4eC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=16.5;entryDy=0;entryPerimeter=0;" edge="1" parent="lgE0cyHTdlIOcblUiMzN-179" source="lgE0cyHTdlIOcblUiMzN-229" target="lgE0cyHTdlIOcblUiMzN-232">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="400" />
+              <mxPoint x="61" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BGP5__pCPFABorJjP4eC-20" value="Unused" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BGP5__pCPFABorJjP4eC-14">
+          <mxGeometry x="0.3956" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BGP5__pCPFABorJjP4eC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=16.5;entryDy=0;entryPerimeter=0;" edge="1" parent="lgE0cyHTdlIOcblUiMzN-179" source="lgE0cyHTdlIOcblUiMzN-229" target="lgE0cyHTdlIOcblUiMzN-233">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="82" y="390" />
+              <mxPoint x="64" y="390" />
               <mxPoint x="152" y="390" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BGP5__pCPFABorJjP4eC-19" value="Unserviceable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BGP5__pCPFABorJjP4eC-16">
+          <mxGeometry x="-0.7065" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lgE0cyHTdlIOcblUiMzN-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" parent="1" source="sbPEuqRtvOU7aVTsuF3H-46" target="lgE0cyHTdlIOcblUiMzN-180" edge="1">
