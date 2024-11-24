@@ -252,7 +252,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BGP5__pCPFABorJjP4eC-12" value="&lt;div&gt;For individual&lt;/div&gt;&lt;div&gt;issued items&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mD3hHIEsa4qXd8ChemdI-42">
+        <mxCell id="BGP5__pCPFABorJjP4eC-12" value="For assets" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mD3hHIEsa4qXd8ChemdI-42">
           <mxGeometry x="0.3459" y="-2" relative="1" as="geometry">
             <mxPoint x="1" y="-5" as="offset" />
           </mxGeometry>
@@ -360,7 +360,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BGP5__pCPFABorJjP4eC-13" value="&lt;div&gt;For common&lt;/div&gt;&lt;div&gt;issued items&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BGP5__pCPFABorJjP4eC-11">
+        <mxCell id="BGP5__pCPFABorJjP4eC-13" value="For consumables" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BGP5__pCPFABorJjP4eC-11">
           <mxGeometry x="0.4605" relative="1" as="geometry">
             <mxPoint y="5" as="offset" />
           </mxGeometry>
