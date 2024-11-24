@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.9">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="2284" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="4947" dy="2209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1169,7 +1169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lgE0cyHTdlIOcblUiMzN-259" value="Reports" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1300" width="870" height="610" as="geometry" />
+          <mxGeometry x="480" y="1300" width="960" height="610" as="geometry" />
         </mxCell>
         <mxCell id="lgE0cyHTdlIOcblUiMzN-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="lgE0cyHTdlIOcblUiMzN-259" source="lgE0cyHTdlIOcblUiMzN-260" target="lgE0cyHTdlIOcblUiMzN-261" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1207,12 +1207,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lgE0cyHTdlIOcblUiMzN-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="lgE0cyHTdlIOcblUiMzN-259" source="lgE0cyHTdlIOcblUiMzN-318" target="lgE0cyHTdlIOcblUiMzN-353" edge="1">
+        <mxCell id="lgE0cyHTdlIOcblUiMzN-354" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="lgE0cyHTdlIOcblUiMzN-259" source="lgE0cyHTdlIOcblUiMzN-318" target="lgE0cyHTdlIOcblUiMzN-353" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="505" y="190" />
-              <mxPoint x="470" y="190" />
-              <mxPoint x="470" y="291" />
+              <mxPoint x="625" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1220,7 +1219,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="505" y="190" />
-              <mxPoint x="680" y="190" />
+              <mxPoint x="770" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1228,7 +1227,7 @@
           <mxGeometry x="450" y="38" width="110" height="94" as="geometry" />
         </mxCell>
         <mxCell id="lgE0cyHTdlIOcblUiMzN-343" value="Stock Control Reports" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="lgE0cyHTdlIOcblUiMzN-259" vertex="1">
-          <mxGeometry x="301" y="210" width="139" height="400" as="geometry" />
+          <mxGeometry x="300" y="210" width="230" height="400" as="geometry" />
         </mxCell>
         <mxCell id="lgE0cyHTdlIOcblUiMzN-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="lgE0cyHTdlIOcblUiMzN-343" source="lgE0cyHTdlIOcblUiMzN-344" target="lgE0cyHTdlIOcblUiMzN-346" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1245,8 +1244,14 @@
         <mxCell id="lgE0cyHTdlIOcblUiMzN-348" value="&lt;div&gt;Generate&lt;/div&gt;Report of Supplies and Materials Issueds" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=22;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="lgE0cyHTdlIOcblUiMzN-343" vertex="1">
           <mxGeometry x="29.5" y="300" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="0RudpNWHcr2-a-E53n9r-7" value="&lt;div&gt;Generate&lt;/div&gt;Supply Ledger Card" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=22;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="lgE0cyHTdlIOcblUiMzN-343">
+          <mxGeometry x="140" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0RudpNWHcr2-a-E53n9r-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lgE0cyHTdlIOcblUiMzN-343" source="lgE0cyHTdlIOcblUiMzN-346" target="0RudpNWHcr2-a-E53n9r-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lgE0cyHTdlIOcblUiMzN-352" value="Disposal Reports" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="lgE0cyHTdlIOcblUiMzN-259" vertex="1">
-          <mxGeometry x="440" y="210" width="170" height="400" as="geometry" />
+          <mxGeometry x="530" y="210" width="170" height="400" as="geometry" />
         </mxCell>
         <mxCell id="lgE0cyHTdlIOcblUiMzN-356" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="lgE0cyHTdlIOcblUiMzN-352" source="lgE0cyHTdlIOcblUiMzN-353" target="lgE0cyHTdlIOcblUiMzN-355" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1264,7 +1269,7 @@
           <mxGeometry x="35" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lgE0cyHTdlIOcblUiMzN-359" value="Asset Management Reports" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="lgE0cyHTdlIOcblUiMzN-259" vertex="1">
-          <mxGeometry x="610" y="210" width="260" height="400" as="geometry" />
+          <mxGeometry x="700" y="210" width="260" height="400" as="geometry" />
         </mxCell>
         <mxCell id="lgE0cyHTdlIOcblUiMzN-364" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="lgE0cyHTdlIOcblUiMzN-359" source="lgE0cyHTdlIOcblUiMzN-360" target="lgE0cyHTdlIOcblUiMzN-361" edge="1">
           <mxGeometry relative="1" as="geometry" />
