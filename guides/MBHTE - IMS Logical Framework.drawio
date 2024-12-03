@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="Vomi8I1mb0VnvBT-yDzH">
-    <mxGraphModel dx="2442" dy="1316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -482,7 +482,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="195" />
-              <mxPoint x="160" y="146" />
+              <mxPoint x="160" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -504,7 +504,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c8jtCQ2RTV0CYjJ42k8G-3" value="Fetch RIS Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=36;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="P5UkXqfQfaICf5vlP5i--199" vertex="1">
-          <mxGeometry x="174.5" y="240" width="111" height="200" as="geometry" />
+          <mxGeometry x="174.5" y="269" width="111" height="200" as="geometry" />
         </mxCell>
         <mxCell id="c8jtCQ2RTV0CYjJ42k8G-4" value="RIS Number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="c8jtCQ2RTV0CYjJ42k8G-3" vertex="1">
           <mxGeometry y="36" width="111" height="24" as="geometry" />
@@ -547,13 +547,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c8jtCQ2RTV0CYjJ42k8G-17" value="&lt;div&gt;Confirm&lt;/div&gt;&lt;div&gt;Item/s if exist in&amp;nbsp;&lt;/div&gt;&lt;div&gt;RIS?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="P5UkXqfQfaICf5vlP5i--199" vertex="1">
-          <mxGeometry x="179" y="106" width="100" height="80" as="geometry" />
+          <mxGeometry x="179" y="135" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c8jtCQ2RTV0CYjJ42k8G-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="P5UkXqfQfaICf5vlP5i--199" source="c8jtCQ2RTV0CYjJ42k8G-24" target="P5UkXqfQfaICf5vlP5i--216" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c8jtCQ2RTV0CYjJ42k8G-24" value="&lt;div&gt;Display Error:&lt;/div&gt;&lt;div&gt;Item/s is not included in the RIS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="P5UkXqfQfaICf5vlP5i--199" vertex="1">
-          <mxGeometry x="174.5" y="26" width="105.5" height="50" as="geometry" />
+          <mxGeometry x="174.5" y="55" width="105.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P5UkXqfQfaICf5vlP5i--200" value="Relocation" style="swimlane;startSize=20;html=1;" parent="P5UkXqfQfaICf5vlP5i--198" vertex="1">
           <mxGeometry x="300" y="20" width="190" height="590" as="geometry" />
