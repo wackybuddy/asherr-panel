@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="Vomi8I1mb0VnvBT-yDzH">
-    <mxGraphModel dx="1526" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1243,6 +1243,9 @@
         <mxCell id="vhRFyTau2gw0j3g7wj8o-69" value="Fetch row item data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tWtP9dsFDZU0gEpBL7XC-264">
           <mxGeometry x="335" y="288" width="120" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="vhRFyTau2gw0j3g7wj8o-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="tWtP9dsFDZU0gEpBL7XC-264" source="vhRFyTau2gw0j3g7wj8o-86" target="vhRFyTau2gw0j3g7wj8o-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vhRFyTau2gw0j3g7wj8o-86" value="Click Add Item&lt;div&gt;button action&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="tWtP9dsFDZU0gEpBL7XC-264">
           <mxGeometry x="105" y="490" width="130" height="60" as="geometry" />
         </mxCell>
@@ -1265,6 +1268,9 @@
         </mxCell>
         <mxCell id="vhRFyTau2gw0j3g7wj8o-91" value="Cancel Requisition Activity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tWtP9dsFDZU0gEpBL7XC-264">
           <mxGeometry x="505" y="554" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="vhRFyTau2gw0j3g7wj8o-93" value="Search Item to Add&lt;div&gt;in the list&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="tWtP9dsFDZU0gEpBL7XC-264">
+          <mxGeometry x="105" y="596" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tWtP9dsFDZU0gEpBL7XC-265" value="Replenishment" style="swimlane;startSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="tWtP9dsFDZU0gEpBL7XC-262" vertex="1">
           <mxGeometry x="1120" width="360" height="1300" as="geometry" />
