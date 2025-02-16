@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="25.0.3">
   <diagram name="Page-1" id="oDtLMIy_fDL6S5lY5Gf0">
-    <mxGraphModel dx="834" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1697" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KWg0KiSk_VlSZcpvtIoX-1" value="Client" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="340" height="510" as="geometry" />
+        <mxCell id="KWg0KiSk_VlSZcpvtIoX-1" value="Client" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=20;horizontal=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry width="830" height="1160" as="geometry" />
         </mxCell>
-        <mxCell id="KWg0KiSk_VlSZcpvtIoX-2" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" width="370" height="510" as="geometry" />
+        <mxCell id="KWg0KiSk_VlSZcpvtIoX-2" value="Admin" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="834" width="820" height="1160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
